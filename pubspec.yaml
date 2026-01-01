@@ -1,5 +1,5 @@
-name: shopping_app
-description: "A simple Flutter shopping application for mid-term exam."
+name: store
+description: "exam."
 publish_to: 'none'
 
 environment:
